@@ -1,0 +1,19 @@
+.dropDown {
+  border: none;
+  width: 100%;
+  outline: none;
+  background-color: transparent;
+  padding: 8px 0px;
+  color: #000000;
+  font-size: 18px;
+}
+
+.dropDown option:first-child {
+  color: black;
+  font-size: 18px;
+}
+
+.dropDown option {
+  color: #97a1ff;
+  font-size: 18px;
+}
